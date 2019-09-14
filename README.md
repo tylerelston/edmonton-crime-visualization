@@ -1,5 +1,5 @@
 # City of Edmonton Historical Crime Visualization
-Visual representations of historical crime in Edmonton based on user filters
+Visual representations of historical crime in Edmonton based on crime type/year
 
 ## Prerequisites 
 SQLite3, Folium, Pandas, Matplotlib
